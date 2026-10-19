@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_MyQmlModule_raw_qml_0.cpp"
+  ".qt/rcc/qrc_MyQmlModule_raw_res_0.cpp"
+  ".qt/rcc/qrc_qmake_hello.cpp"
+  ".rcc/qmlcache/MyQmlModule_Main_qml.cpp"
+  ".rcc/qmlcache/MyQmlModule_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/MyQmlModule_qmlcache_loader.cpp"
+  "CMakeFiles/MyQmlModule_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/MyQmlModule_autogen.dir/ParseCache.txt"
+  "MyQmlModule_autogen"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_MyQmlModule_raw_qml_0.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_MyQmlModule_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_MyQmlModule_raw_res_0.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_MyQmlModule_raw_res_0.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_qmake_hello.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/.qt/rcc/qrc_qmake_hello.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/.rcc/qmlcache/MyQmlModule_Main_qml.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/.rcc/qmlcache/MyQmlModule_Main_qml.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/.rcc/qmlcache/MyQmlModule_qmlcache_loader.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/.rcc/qmlcache/MyQmlModule_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/MyQmlModule_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/MyQmlModule_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/MyQmlModule.dir/myqmlmodule_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/MyQmlModule.dir/myqmlmodule_qmltyperegistrations.cpp.obj.d"
+  "MyQmlModule.qmltypes"
+  "MyQmlModule_autogen/mocs_compilation.cpp"
+  "MyQmlModule_autogen/timestamp"
+  "libMyQmlModule.a"
+  "libMyQmlModule.pdb"
+  "meta_types/MyQmlModule_json_file_list.txt"
+  "meta_types/MyQmlModule_json_file_list.txt.timestamp"
+  "meta_types/qt6myqmlmodule_metatypes.json"
+  "meta_types/qt6myqmlmodule_metatypes.json.gen"
+  "myqmlmodule_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MyQmlModule.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

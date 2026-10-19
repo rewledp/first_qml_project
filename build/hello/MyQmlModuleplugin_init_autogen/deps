@@ -1,0 +1,10 @@
+MyQmlModuleplugin_init_autogen/timestamp: \
+	C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/MyQmlModuleplugin_helloPlugin_in.cpp \
+	C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/MyQmlModuleplugin_init.cpp \
+	C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/hello/CMakeLists.txt \
+	C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	C:/msys64/ucrt64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	C:/msys64/ucrt64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	C:/msys64/ucrt64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	C:/msys64/ucrt64/bin/cmake.exe

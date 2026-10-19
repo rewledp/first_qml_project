@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/hello/">
+    <file alias="img/world.png">C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/hello/img/world.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,47 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 11,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 5,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onFocusChanged",
+                            "line": 7,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "onReturnPressed",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "onReturnPressed",
+                            "line": 9,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicText.qml"
+                }
+            ],
+            "moduleId": "second_mod(SecondMod)"
+        }
+    ]
+}

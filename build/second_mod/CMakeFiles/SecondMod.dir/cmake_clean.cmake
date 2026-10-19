@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_SecondMod_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_second_mod.cpp"
+  ".rcc/qmlcache/SecondMod_MagicAnimation_qml.cpp"
+  ".rcc/qmlcache/SecondMod_MagicAnimation_qml.cpp.aotstats"
+  ".rcc/qmlcache/SecondMod_MagicText_qml.cpp"
+  ".rcc/qmlcache/SecondMod_MagicText_qml.cpp.aotstats"
+  ".rcc/qmlcache/SecondMod_qmlcache_loader.cpp"
+  "CMakeFiles/SecondMod_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/SecondMod_autogen.dir/ParseCache.txt"
+  "SecondMod_autogen"
+  "CMakeFiles/SecondMod.dir/.qt/rcc/qrc_SecondMod_raw_qml_0.cpp.obj"
+  "CMakeFiles/SecondMod.dir/.qt/rcc/qrc_SecondMod_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/.qt/rcc/qrc_qmake_second_mod.cpp.obj"
+  "CMakeFiles/SecondMod.dir/.qt/rcc/qrc_qmake_second_mod.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicAnimation_qml.cpp.obj"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicAnimation_qml.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicText_qml.cpp.obj"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicText_qml.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_qmlcache_loader.cpp.obj"
+  "CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/SecondMod_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/SecondMod.dir/SecondMod_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/SecondMod.dir/secondmod_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/SecondMod.dir/secondmod_qmltyperegistrations.cpp.obj.d"
+  "SecondMod.qmltypes"
+  "SecondMod_autogen/mocs_compilation.cpp"
+  "SecondMod_autogen/timestamp"
+  "libSecondMod.a"
+  "libSecondMod.pdb"
+  "meta_types/SecondMod_json_file_list.txt"
+  "meta_types/SecondMod_json_file_list.txt.timestamp"
+  "meta_types/qt6secondmod_metatypes.json"
+  "meta_types/qt6secondmod_metatypes.json.gen"
+  "secondmod_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/SecondMod.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

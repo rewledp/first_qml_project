@@ -1,0 +1,889 @@
+{
+  "date": "2026-10-19T22:50:35.563427600+02:00",
+  "data": {
+    "check_required_components": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 17,
+            "character": 6
+          },
+          "end": {
+            "line": 17,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": true
+    },
+    "\"Qt6Quick_FOUND\"": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 47,
+            "character": 8
+          },
+          "end": {
+            "line": 47,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__qt_Quick_always_load_private_module": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 63,
+            "character": 4
+          },
+          "end": {
+            "line": 63,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake\n\nFind the private module counterpart.",
+      "is_function": false
+    },
+    "Qt6Quick_DEFINITIONS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 144,
+            "character": 12
+          },
+          "end": {
+            "line": 144,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "_IMPORT_PREFIX": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 125,
+            "character": 4
+          },
+          "end": {
+            "line": 125,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake\n\nCleanup temporary variables.",
+      "is_function": false
+    },
+    "Qt6Quick_PRIVATE_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 157,
+            "character": 8
+          },
+          "end": {
+            "line": 157,
+            "character": 37
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "set_and_check": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 10,
+            "character": 6
+          },
+          "end": {
+            "line": 10,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined macro\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": true
+    },
+    "PACKAGE_VERSION_UNSUITABLE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake",
+        "range": {
+          "start": {
+            "line": 41,
+            "character": 6
+          },
+          "end": {
+            "line": 41,
+            "character": 32
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersionImpl.cmake",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 4
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\CMakeLists.txt",
+      "is_function": false
+    },
+    "${CMAKE_FIND_PACKAGE_NAME}_FIND_REQUIRED": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 16,
+            "character": 4
+          },
+          "end": {
+            "line": 16,
+            "character": 44
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake\n\nset _NOT_FOUND_MESSAGE which will be displayed by the includer of the Dependencies file.",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD_REQUIRED": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 4
+          },
+          "end": {
+            "line": 4,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\CMakeLists.txt",
+      "is_function": false
+    },
+    "_cmake_targets_not_defined": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 19,
+            "character": 4
+          },
+          "end": {
+            "line": 19,
+            "character": 30
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake",
+      "is_function": false
+    },
+    "QT_DEFAULT_IMPORT_CONFIGURATION": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickAdditionalTargetInfo.cmake",
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 8
+          },
+          "end": {
+            "line": 2,
+            "character": 39
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickAdditionalTargetInfo.cmake",
+      "is_function": false
+    },
+    "QT_QML_GENERATE_QMLLS_INI": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/downloads/cpp_projects/qt/qml_learning/qml_second/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 10,
+            "character": 4
+          },
+          "end": {
+            "line": 10,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\CMakeLists.txt",
+      "is_function": false
+    },
+    "__qt_Quick_find_dependency_paths": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 48,
+            "character": 4
+          },
+          "end": {
+            "line": 48,
+            "character": 36
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake",
+      "is_function": false
+    },
+    "Qt6Quick_NOT_FOUND_MESSAGE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 237,
+            "character": 12
+          },
+          "end": {
+            "line": 237,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__qt_disable_package_version_check": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake",
+        "range": {
+          "start": {
+            "line": 14,
+            "character": 7
+          },
+          "end": {
+            "line": 14,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersion.cmake",
+      "is_function": false
+    },
+    "${CMAKE_FIND_PACKAGE_NAME}_NOT_FOUND_MESSAGE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 164,
+            "character": 9
+          },
+          "end": {
+            "line": 164,
+            "character": 53
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake",
+      "is_function": false
+    },
+    "__QT_DEPLOY_TARGET_qml_second_RUNTIME_DLLS": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/.qt/QtDeployTargets.cmake",
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 4
+          },
+          "end": {
+            "line": 2,
+            "character": 46
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\build\\.qt\\QtDeployTargets.cmake",
+      "is_function": false
+    },
+    "PACKAGE_VERSION": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake",
+        "range": {
+          "start": {
+            "line": 40,
+            "character": 6
+          },
+          "end": {
+            "line": 40,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersionImpl.cmake",
+      "is_function": false
+    },
+    "Qt6Quick_LIBRARIES": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 115,
+            "character": 8
+          },
+          "end": {
+            "line": 115,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake\n\nConsider using target_link_libraries(app PRIVATE Qt6Quick) instead.",
+      "is_function": false
+    },
+    "_private_suffix": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 164,
+            "character": 16
+          },
+          "end": {
+            "line": 164,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "_cmake_expected_targets": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 20,
+            "character": 4
+          },
+          "end": {
+            "line": 20,
+            "character": 27
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake",
+      "is_function": false
+    },
+    "CMAKE_IMPORT_FILE_VERSION": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 172,
+            "character": 4
+          },
+          "end": {
+            "line": 172,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake\n\nCommands beyond this point should not need to know the version.",
+      "is_function": false
+    },
+    "Qt6Quick_COMPILE_DEFINITIONS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 151,
+            "character": 12
+          },
+          "end": {
+            "line": 151,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "${_NAME}_FOUND": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 21,
+            "character": 12
+          },
+          "end": {
+            "line": 21,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__qt_use_no_default_path_for_qt_packages": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 8
+          },
+          "end": {
+            "line": 11,
+            "character": 48
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake",
+      "is_function": false
+    },
+    "Qt6Quick_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 154,
+            "character": 8
+          },
+          "end": {
+            "line": 154,
+            "character": 29
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "${CMAKE_FIND_PACKAGE_NAME}_NOT_FOUND_MESSAGE_targets": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 157,
+            "character": 8
+          },
+          "end": {
+            "line": 157,
+            "character": 60
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake",
+      "is_function": false
+    },
+    "Qt6Quick_FOUND": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 57,
+            "character": 4
+          },
+          "end": {
+            "line": 57,
+            "character": 18
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake",
+      "is_function": false
+    },
+    "updated_defs": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 136,
+            "character": 12
+          },
+          "end": {
+            "line": 136,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "QML_IMPORT_PATH": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 12,
+            "character": 4
+          },
+          "end": {
+            "line": 12,
+            "character": 19
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\CMakeLists.txt",
+      "is_function": false
+    },
+    "__qt_Quick_target_deps": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 47,
+            "character": 4
+          },
+          "end": {
+            "line": 47,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake\n\nnote: target_deps example: \"Qt6Core\\;5.12.0;Qt6Gui\\;5.12.0\"",
+      "is_function": false
+    },
+    "${_var}": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 11,
+            "character": 6
+          },
+          "end": {
+            "line": 11,
+            "character": 13
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__qt_Quick_targets_file_included": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 59,
+            "character": 8
+          },
+          "end": {
+            "line": 59,
+            "character": 40
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "QT_SKIP_AUTO_PLUGIN_INCLUSION": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickPlugins.cmake",
+        "range": {
+          "start": {
+            "line": 8,
+            "character": 8
+          },
+          "end": {
+            "line": 8,
+            "character": 37
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickPlugins.cmake",
+      "is_function": false
+    },
+    "_Qt6Quick_MODULE_DEPENDENCIES": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 56,
+            "character": 4
+          },
+          "end": {
+            "line": 56,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake",
+      "is_function": false
+    },
+    "QT_NO_PACKAGE_VERSION_INCOMPATIBLE_WARNING": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake",
+        "range": {
+          "start": {
+            "line": 28,
+            "character": 12
+          },
+          "end": {
+            "line": 28,
+            "character": 54
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersion.cmake",
+      "is_function": false
+    },
+    "PACKAGE_VERSION_COMPATIBLE": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake",
+        "range": {
+          "start": {
+            "line": 24,
+            "character": 8
+          },
+          "end": {
+            "line": 24,
+            "character": 34
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersionImpl.cmake",
+      "is_function": false
+    },
+    "_cmake_targets_defined": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 18,
+            "character": 4
+          },
+          "end": {
+            "line": 18,
+            "character": 26
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake\n\nProtect against multiple inclusion, which would fail when already imported targets are added once more.",
+      "is_function": false
+    },
+    "__qt_Quick_third_party_deps": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 31,
+            "character": 4
+          },
+          "end": {
+            "line": 31,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake\n\nnote: _third_party_deps example: \"ICU\\\\;FALSE\\\\;1.0\\\\;i18n uc data;ZLIB\\\\;FALSE\\\\;\\\\;\"",
+      "is_function": false
+    },
+    "_qt_cmake_dir": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 8
+          },
+          "end": {
+            "line": 7,
+            "character": 21
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake",
+      "is_function": false
+    },
+    "__qt_Quick_tool_deps": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+        "range": {
+          "start": {
+            "line": 40,
+            "character": 4
+          },
+          "end": {
+            "line": 40,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickDependencies.cmake\n\nFind Qt tool package.",
+      "is_function": false
+    },
+    "__QT_DEPLOY_TARGET_qml_second_TYPE": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/.qt/QtDeployTargets.cmake",
+        "range": {
+          "start": {
+            "line": 1,
+            "character": 4
+          },
+          "end": {
+            "line": 1,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\build\\.qt\\QtDeployTargets.cmake",
+      "is_function": false
+    },
+    "${CMAKE_FIND_PACKAGE_NAME}_FOUND": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+        "range": {
+          "start": {
+            "line": 163,
+            "character": 9
+          },
+          "end": {
+            "line": 163,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickTargets.cmake",
+      "is_function": false
+    },
+    "CMAKE_EXPORT_COMPILE_COMMANDS": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 4
+          },
+          "end": {
+            "line": 6,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\CMakeLists.txt",
+      "is_function": false
+    },
+    "_Qt6Quick_OWN_PRIVATE_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 127,
+            "character": 16
+          },
+          "end": {
+            "line": 127,
+            "character": 50
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__QT_DEPLOY_TARGET_qml_second_FILE": {
+      "location": {
+        "uri": "file:///C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/.qt/QtDeployTargets.cmake",
+        "range": {
+          "start": {
+            "line": 0,
+            "character": 4
+          },
+          "end": {
+            "line": 0,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:\\Users\\perdo\\Downloads\\cpp_projects\\qt\\qml_learning\\qml_second\\build\\.qt\\QtDeployTargets.cmake",
+      "is_function": false
+    },
+    "__qt_package_version_message_prefix": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake",
+        "range": {
+          "start": {
+            "line": 52,
+            "character": 12
+          },
+          "end": {
+            "line": 52,
+            "character": 47
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersion.cmake",
+      "is_function": false
+    },
+    "PACKAGE_VERSION_EXACT": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersionImpl.cmake",
+        "range": {
+          "start": {
+            "line": 26,
+            "character": 10
+          },
+          "end": {
+            "line": 26,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersionImpl.cmake",
+      "is_function": false
+    },
+    "_Qt6Quick_OWN_INCLUDE_DIRS": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+        "range": {
+          "start": {
+            "line": 120,
+            "character": 12
+          },
+          "end": {
+            "line": 120,
+            "character": 38
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfig.cmake",
+      "is_function": false
+    },
+    "__qt_package_version_incompatible": {
+      "location": {
+        "uri": "file:///C:/msys64/ucrt64/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake",
+        "range": {
+          "start": {
+            "line": 20,
+            "character": 8
+          },
+          "end": {
+            "line": 20,
+            "character": 41
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: C:/msys64/ucrt64\\lib\\cmake\\Qt6Quick\\Qt6QuickConfigVersion.cmake",
+      "is_function": false
+    }
+  }
+}

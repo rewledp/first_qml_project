@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build
+-I
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod
+-I
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod
+-I
+C:/msys64/ucrt64/share/qt6/qml
+--resource
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/.qt/rcc/qmake_second_mod.qrc
+--resource
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/.qt/rcc/SecondMod_raw_qml_0.qrc
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicText.qml
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicAnimation.qml

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/second_mod/">
+    <file alias="MagicText.qml">C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicText.qml</file>
+    <file alias="MagicAnimation.qml">C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicAnimation.qml</file>
+  </qresource>
+</RCC>
+

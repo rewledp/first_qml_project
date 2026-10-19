@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/second_mod/MagicAnimation.qml"
+                }
+            ],
+            "moduleId": "second_mod(SecondMod)"
+        }
+    ]
+}

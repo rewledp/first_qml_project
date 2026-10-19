@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/hello">
+    <file alias="qmldir">C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/qmldir</file>
+  </qresource>
+</RCC>
+

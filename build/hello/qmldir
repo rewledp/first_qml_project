@@ -1,0 +1,10 @@
+module hello
+linktarget MyQmlModuleplugin
+optional plugin MyQmlModuleplugin
+classname helloPlugin
+typeinfo MyQmlModule.qmltypes
+depends second_mod
+prefer :/hello/
+Main 254.0 Main.qml
+depends QtQuick
+

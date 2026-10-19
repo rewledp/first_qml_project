@@ -1,0 +1,6 @@
+[C:<SLASH>Users<SLASH>perdo<SLASH>Downloads<SLASH>cpp_projects<SLASH>qt<SLASH>qml_learning<SLASH>qml_second<SLASH>hello]
+importPaths="C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build;C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello;C:/msys64/ucrt64/share/qt6/qml"
+resourceFiles="C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/.qt/rcc/qmake_hello.qrc;C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/.qt/rcc/MyQmlModule_raw_qml_0.qrc;C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/hello/.qt/rcc/MyQmlModule_raw_res_0.qrc"
+[C:<SLASH>Users<SLASH>perdo<SLASH>Downloads<SLASH>cpp_projects<SLASH>qt<SLASH>qml_learning<SLASH>qml_second<SLASH>second_mod]
+importPaths="C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build;C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod;C:/msys64/ucrt64/share/qt6/qml"
+resourceFiles="C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/.qt/rcc/qmake_second_mod.qrc;C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/.qt/rcc/SecondMod_raw_qml_0.qrc"

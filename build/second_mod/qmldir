@@ -1,0 +1,10 @@
+module second_mod
+linktarget SecondModplugin
+optional plugin SecondModplugin
+classname second_modPlugin
+typeinfo SecondMod.qmltypes
+prefer :/second_mod/
+MagicText 254.0 MagicText.qml
+MagicAnimation 254.0 MagicAnimation.qml
+depends QtQuick
+

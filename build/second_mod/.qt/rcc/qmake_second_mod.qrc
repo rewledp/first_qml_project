@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/second_mod">
+    <file alias="qmldir">C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/qmldir</file>
+  </qresource>
+</RCC>
+

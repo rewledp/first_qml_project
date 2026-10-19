@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libSecondMod.a CMakeFiles/SecondMod.dir/SecondMod_autogen/mocs_compilation.cpp.obj CMakeFiles/SecondMod.dir/secondmod_qmltyperegistrations.cpp.obj CMakeFiles/SecondMod.dir/.qt/rcc/qrc_qmake_second_mod.cpp.obj CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_qmlcache_loader.cpp.obj CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicText_qml.cpp.obj CMakeFiles/SecondMod.dir/.rcc/qmlcache/SecondMod_MagicAnimation_qml.cpp.obj CMakeFiles/SecondMod.dir/.qt/rcc/qrc_SecondMod_raw_qml_0.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libSecondMod.a

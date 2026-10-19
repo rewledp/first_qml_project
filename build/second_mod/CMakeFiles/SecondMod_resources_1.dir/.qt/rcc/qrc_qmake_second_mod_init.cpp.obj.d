@@ -1,0 +1,24 @@
+second_mod/CMakeFiles/SecondMod_resources_1.dir/.qt/rcc/qrc_qmake_second_mod_init.cpp.obj: \
+  C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/second_mod/.qt/rcc/qrc_qmake_second_mod_init.cpp \
+  C:/msys64/ucrt64/include/qt6/QtCore/qtsymbolmacros.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qcompilerdetection.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qprocessordetection.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qsystemdetection.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qtconfiginclude.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/version \
+  C:/msys64/ucrt64/include/c++/16.2.0/bits/version.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/pstl/pstl_config.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qconfig.h \
+  C:/msys64/ucrt64/include/qt6/QtCore/qtcore-config.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/atomic \
+  C:/msys64/ucrt64/include/c++/16.2.0/utility \
+  C:/msys64/ucrt64/include/c++/16.2.0/bits/stl_relops.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/bits/stl_pair.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/type_traits \
+  C:/msys64/ucrt64/include/c++/16.2.0/bits/move.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/bits/utility.h \
+  C:/msys64/ucrt64/include/c++/16.2.0/initializer_list \
+  C:/msys64/ucrt64/include/qt6/QtCore/qtpreprocessorsupport.h

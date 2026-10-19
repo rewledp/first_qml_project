@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second
+-cmake-output
+-output-file
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build/.qt/qml_imports/qml_second_build.cmake
+-importPath
+C:/Users/perdo/Downloads/cpp_projects/qt/qml_learning/qml_second/build
+-importPath
+C:/msys64/ucrt64/share/qt6/qml
